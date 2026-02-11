@@ -50,7 +50,8 @@
     <h2>Contact Us</h2>
     <form>
         <label for="name">Name:</label><br>
-        <input type="text" id="name" name="name"><br><br>
+        <input type="text" id="name" name="name"><br>
+        <br>
 
         <label for="email">Email:</label><br>
         <input type="email" id="email" name="email"><br>
@@ -66,5 +67,5 @@
 
         <input type="submit" value="Send">
     </form>
-
-
+</body>
+</form> 
