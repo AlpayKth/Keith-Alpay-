@@ -43,13 +43,12 @@
     </ul>
     <h2>Follow Us</h2>
     <p>Stay updated with our latest news and releases:</p>
-    <a href="https://www.example.com/faceblock/hh" target="_blank">Faceblock</a><br>
-    <a href="https://www.example.com/instagrump/hh" target="_blank">Instagrump</a><br>
-    <a href="https://www.example.com/twotter/hh" target="_blank">Twotter</a>
+    <a href="https://www.example.com/facebook/hh" target="_blank">Faceblock</a><br>
+    <a href="https://www.example.com/instagram/hh" target="_blank">Instagrump</a><br>
+    <a href="https://www.example.com/twitter/hh" target="_blank">Twotter</a>
 
     <h2>Contact Us</h2>
     <form>
-        <!-- Name -->
         <label for="name">Name:</label><br>
         <input type="text" id="name" name="name"><br><br>
 
@@ -70,4 +69,4 @@
 
 </body>
 </html>
-a
+
